@@ -1,0 +1,34 @@
+Citations/Credits/Bibliography:
+Professor: David Kosbie 
+TP TA: Helen Huang 
+
+#Images for the backgrounds
+- https://www.pinterest.com/pin/68742066635/
+- https://www.pinterest.com/pin/505036545721248128/
+- https://www.pinterest.com/pin/10273905390000545/
+- https://www.pinterest.com/pin/7599893109133044/
+- https://www.pinterest.com/pin/2181499806593016/
+- https://www.pinterest.com/pin/695454367467129492/
+- https://www.pinterest.com/pin/1042513013713500789/
+
+#Images for the characters: 
+- Created by Maggie Cai (Hand drawn with lots of sadness :)) )
+   - Fireboy
+   - Watergirl 
+   - Alien
+   - Sprite Sheets
+   - Opening screen
+   - Buttons
+
+#A* Algorithm 
+- Followed Pseudocode: https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
+- Watched to understand how A* worked
+    - https://www.youtube.com/watch?v=JtiK0DOeI4A
+    - https://www.youtube.com/watch?v=-L-WgKMFuhE 
+
+#Pygame
+-Installation: https://www.pygame.org/wiki/GettingStarted 
+- Music: https://pythonprogramming.net/adding-sounds-music-pygame/
+
+#Class Notes/112 website
+- https://www.cs.cmu.edu/~112/schedule.html
